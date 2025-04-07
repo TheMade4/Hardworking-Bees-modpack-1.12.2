@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build-modpack-cf.yml"
+hash = "4825a2fa1ad35ee74f9b48ff8e184cf613a1779cd18970d7a72cfae67668352f"
+
+[[files]]
 file = "LICENSE"
 hash = "91fa88eff546b488900a35d6169e6ec30ef70b271fbdfd15e11e8bf1d1522765"
 
