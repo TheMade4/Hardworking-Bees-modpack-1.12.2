@@ -1,0 +1,13 @@
+name = "TombManyPlugins: Galacticraft"
+filename = "tombmanypluginsgalacticraft-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7094d0942c4c02c3177c8bdd1817aa491d1ec32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2563118
+project-id = 294212

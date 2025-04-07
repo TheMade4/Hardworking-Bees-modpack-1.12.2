@@ -1,0 +1,13 @@
+name = "XU2-Patcher"
+filename = "XU2-Patcher-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85a52528fa5847f138e03fee08f76d1eacff003c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6259473
+project-id = 1016395

@@ -1,0 +1,13 @@
+name = "TombManyGraves 2 API"
+filename = "tombmanygraves2api-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e8bb1877f24b0e63d97f3f10679ec8b7b85037e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2563073
+project-id = 294202

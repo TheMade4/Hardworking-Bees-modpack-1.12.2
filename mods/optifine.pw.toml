@@ -1,0 +1,9 @@
+name = "Optifine"
+filename = "OptiFine_1.12.2_HD_U_G5.jar"
+side = "client"
+
+[download]
+url = "https://themade4.github.io/tm4-meta/3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e.jar"
+
+hash-format = "sha256"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"

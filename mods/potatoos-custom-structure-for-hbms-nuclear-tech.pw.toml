@@ -1,0 +1,13 @@
+name = "Potatoo's Custom Structure For HBM's Nuclear Tech Mod"
+filename = "Potatoo's HBM Structures_1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92c7f7da93d1ff3d397ea2b03cc4fb2068676e5d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3764507
+project-id = 521701

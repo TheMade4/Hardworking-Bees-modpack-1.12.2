@@ -1,0 +1,13 @@
+name = "Hardworking Bees"
+author = "TM4"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9a89f1712913dbd90cbc286eaa842ad31bcfb689a73a693fde64ceddf9dc7921"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
