@@ -4437,6 +4437,10 @@ file = "config/xaeroworldmap.txt"
 hash = "9c0a5d0255f7d71ae7703ea0ddc129e2ff4bd4f750ad8a78190dc2bdc738b729"
 
 [[files]]
+file = "mods/YARCF-0.14(1.12.2).jar"
+hash = "bb6cc50d46a2add252c66ff9320a7b6b79627d333f816fed98bde0ffc96930e2"
+
+[[files]]
 file = "mods/advanced-machines-patcher.pw.toml"
 hash = "85f053c83dc9c6b2ec787bbf9840331886853efa27306e4ab79dd63177a0e160"
 metafile = true
@@ -4632,9 +4636,8 @@ hash = "bf089669a08776c6c3019cc2ed786ee1583fcb297784427b21cff7f9564d3c92"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "8409a406724c8f347d9662863b418cdd88604303ff12a813f3779e93bffbbacf"
-metafile = true
+file = "mods/entityculling-1.12.2-1.6.3.jar"
+hash = "1b44014b44cef0e31b6fc618fb195ba110db11dcebb0952e0877492b4cb2d478"
 
 [[files]]
 file = "mods/extra-utilities.pw.toml"
@@ -5129,9 +5132,4 @@ metafile = true
 [[files]]
 file = "mods/xu2-patcher.pw.toml"
 hash = "64829847d765598b4b10ab1afa12bab092211851904744f9b3f634c886ecc14f"
-metafile = true
-
-[[files]]
-file = "mods/yarcf.pw.toml"
-hash = "729d0fb37a03b6244aad48f06c0048c7f4bc569592bc0bde256908e06a52a737"
 metafile = true
