@@ -1,12 +1,12 @@
 name = "Hardworking Bees"
 author = "TM4"
-version = "1.1.2"
+version = "1.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f60fbf01ecf07fb95a6239953fa78a1da3433ded54a397e5b50cdeb8f7bba896"
+hash = "d4b74f5c45dad789c61f744087a3bd1a4a1093cc4212aeeabbdaeddb96f922a5"
 
 [versions]
 forge = "14.23.5.2860"

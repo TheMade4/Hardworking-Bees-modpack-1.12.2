@@ -12,3 +12,6 @@ modpack-data/
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+.git/
+.github/
